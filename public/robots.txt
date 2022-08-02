@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://www.devdata.app
+
+# Sitemaps
+Sitemap: https://www.devdata.app/sitemap.xml
